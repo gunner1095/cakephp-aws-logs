@@ -1,2 +1,3 @@
 # cakephp-aws-logs
 CakePHP log adapters for AWS.
+This is work in progress, not suitable for production user...
